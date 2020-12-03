@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+
+// can factor many of these facilities into a lib file
 import {Storage} from '@google-cloud/storage';
 // eslint-disable-next-line node/no-extraneous-import
 import {Application, Context} from 'probot';
